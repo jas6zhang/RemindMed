@@ -27,22 +27,10 @@ Samir Ali - samirhas49@gmail.com
 - Reflection: https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Team-Reflection
 
 ## Release Notes
-- [1.0.0](https://git.uwaterloo.ca/s295ali1/team-102-3/-/releases/1.0.0)
-- [2.0.0](https://git.uwaterloo.ca/s295ali1/team-102-3/-/releases/2.0.0)
-- [3.0.0](https://git.uwaterloo.ca/s295ali1/team-102-3/-/releases/3.0.0)
-- [4.0.0](https://git.uwaterloo.ca/s295ali1/team-102-3/-/releases/4.0.0)
-
-## Meeting Minutes
-- [Sprint 1](https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Meeting-Minutes/Sprint-1)  
-- [Sprint 2](https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Meeting-Minutes/Sprint-2)  
-- [Sprint 3](https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Meeting-Minutes/Sprint-3)  
-- [Sprint 4](https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Meeting-Minutes/Sprint-4)  
-
-## Development Journals
-- [Gen](https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Development-Journals/Gen-Nishiwaki)
-- [Jacob](https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Development-Journals/Jacob-Im)
-- [Jason](https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Development-Journals/Jason-Zhang)
-- [Samir](https://git.uwaterloo.ca/s295ali1/team-102-3/-/wikis/Development-Journals/Samir-Ali)
+- [1.0.0](https://github.com/Samir2003/RemindMed/releases/tag/1.0.0)
+- [2.0.0](https://github.com/Samir2003/RemindMed/releases/tag/2.0.0)
+- [3.0.0](https://github.com/Samir2003/RemindMed/releases/tag/3.0.0)
+- [4.0.0](https://github.com/Samir2003/RemindMed/releases/tag/4.0.0)
 
 [//]: # ()
 [//]: # (## Building the App)
