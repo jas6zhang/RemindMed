@@ -7,6 +7,8 @@ their prescriptions with usage details, and then have reminders automatically sc
 As a result, medications can be properly used, leading to improved care for patients,
 and more time for doctors to help others.
 
+Selected as one of the top 9 outstanding projects for the CS 346 W24 term. https://student.cs.uwaterloo.ca/~cs346/1249/course-project/gallery/
+
 # Introduction Video
 [![RemindMed Introduction Video](https://img.youtube.com/vi/6Sh5vcLsh7g/0.jpg)](https://youtu.be/6Sh5vcLsh7g)
 
