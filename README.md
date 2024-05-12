@@ -17,7 +17,7 @@ Jacob Im - j8im@uwaterloo.ca
 
 Jason Zhang - jaszhang6@gmail.com  
 
-Samir Ali - s295ali@uwaterloo.ca OR samirhas49@gmail.com
+Samir Ali - samirhas49@gmail.com
 
 ## Project Documentation
 - User Documentation: Information on how to use our app can be found in our [user documentation](https://github.com/Samir2003/RemindMed/wiki/User-Documentation)  
